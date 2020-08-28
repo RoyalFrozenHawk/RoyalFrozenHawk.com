@@ -6,6 +6,10 @@
   transition: 1.5;
 }
 
+.royal{
+  border-radius: 35px;
+}
+
 h1{
 
   animation: h1color 5s infinite;
