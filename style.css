@@ -1,0 +1,275 @@
+
+
+.royal :hover{
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 100;
+  transition: 1.5;
+}
+
+h1{
+
+  animation: h1color 5s infinite;
+  animation-direction: alternate;
+  text-align: center;
+  border-radius: 1em;
+  opacity: 85%;
+
+}
+
+
+iframe {
+   display: block;
+   margin: 0 auto;
+}
+
+img{
+  display: block;
+  margin-left:auto; 
+  margin-right:auto; 
+}
+
+p{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+h5{
+  text-align: center;
+}
+
+a{
+display: block;
+text-align: center;
+}
+@keyframes bgcolor {
+    0% {
+        background-color:	#ffd902
+    }
+
+    100% {
+        background-color: #61d0fe
+    }
+}
+
+body {
+  
+  animation: bgcolor 5s infinite;
+  animation-direction: alternate;
+  text-align: center;
+  border-radius: 1em;
+  font-family: 'Comic Neue', cursive;
+
+}
+@keyframes h1color {
+    0% {
+    background-color: #61d0fe
+    }
+    100% {
+        background-color:	#ffd902
+    }
+}
+.box-1{
+  margin:auto;
+  animation: h1color 5s infinite;
+  animation-direction: alternate;
+  padding:20px;
+  border-radius:1em;
+  opacity:85%;
+}
+.box-1:hover{
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 100;
+  transition: 1.5;
+}
+
+.accounts{
+
+  margin:auto;
+  animation: acccolor 5s infinite;
+  animation-direction: alternate;
+  padding:20px;
+  border-radius: 1em;
+  opacity: 85%;
+}
+.accounts:hover{
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 100;
+  transition: 1.5;
+}
+
+
+.watch{
+
+  margin:auto;
+  animation: watchcolor 5s infinite;
+  animation-direction: alternate;
+  padding: 20px;
+  border-radius: 1em;
+  opacity: 85%;
+}
+.watch:hover{
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 100;
+  transition: 1.5s;
+ 
+}
+
+.acc{
+  margin:auto;
+  animation: acolor 5s infinite;
+  animation-direction: alternate;
+  padding:20px;
+  border-radius: 1em;
+  opacity: 85%;
+}
+.acc:hover{
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 100;
+  transition: 1.5;
+}
+.acc0{
+  margin:auto;
+  animation: acolor0 5s infinite;
+  animation-direction: alternate;
+  padding:20px;
+  border-radius: 1em;
+  opacity: 85%;
+}
+.acc0:hover{
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 100;
+  transition: 1.5;
+}
+.acc1{
+  margin:auto;
+  animation: acolor1 5s infinite;
+  animation-direction: alternate;
+  padding:20px;
+  border-radius: 1em;
+  opacity: 85%;
+}
+.acc1:hover{
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 100;
+  transition: 1.5;
+}
+.acc2{
+  margin:auto;
+  animation: acolor2 5s infinite;
+  animation-direction: alternate;
+  padding:20px;
+  border-radius: 1em;
+  opacity: 85%;
+}
+.acc2:hover{
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 100;
+  transition: 1.5;
+}
+.acc3{
+  margin:auto;
+  animation: acolor3 5s infinite;
+  animation-direction: alternate;
+  padding:20px;
+  border-radius: 1em;
+  opacity: 85%;
+}
+.acc3:hover{
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 100;
+  transition: 1.5;
+}
+.acc4{
+  margin:auto;
+  animation: acolor4 5s infinite;
+  animation-direction: alternate;
+  padding:20px;
+  border-radius: 1em;
+  opacity: 85%;
+}
+.acc4:hover{
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 100;
+  transition: 1.5;
+}
+
+
+@keyframes acccolor {
+    0% {
+        background-color:	#fc0303
+    }
+
+    100% {
+        background-color: #61d0fe
+    }
+}
+@keyframes watchcolor {
+    0% {
+        background-color: #61d0fe
+    }
+
+    100% {
+        background-color: #02ff6b
+    }
+}
+@keyframes acolor {
+    0% {
+        background-color:	#fc0303
+    }
+
+    100% {
+        background-color:	#fc0303 
+    }
+}
+@keyframes acolor0 {
+    0% {
+        background-color:	#fc0303
+    }
+
+    100% {
+        background-color:	#fca503 
+    }
+}
+@keyframes acolor1 {
+    0% {
+        background-color:	#fc0303
+    }
+
+    100% {
+        background-color:	#f8fc03 
+    }
+}
+@keyframes acolor2 {
+    0% {
+        background-color:	#fc0303
+    }
+
+    100% {
+        background-color:	#03fc4e 
+    }
+}
+@keyframes acolor3 {
+    0% {
+        background-color:	#fc0303
+    }
+
+    100% {
+        background-color:	#0331fc 
+    }
+}
+@keyframes acolor4 {
+    0% {
+        background-color:	#fc0303
+    }
+
+    100% {
+        background-color:	#fc03e7 
+    }
+}
